@@ -1,0 +1,1 @@
+server=DESKTOP-6T8MT4L\MYSQL_ART;database=APLCreditUnionBank;integrated security=true
